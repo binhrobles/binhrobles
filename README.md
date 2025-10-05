@@ -1,14 +1,13 @@
 ## Hey there, I'm Binh ✌🏼
 
-I'm Binh. I've been a developer for 9+ years and have worked on the frontend, backend, in DevOps, and as an engineering manager. 
+I'm Binh. I've been a developer for 10+ years and have worked all around the stack and as an engineering manager. 
 
 Thanks for stopping by 🙏🏼
 
 I'm currently...
 - 🗺️ ...building a geolocation platform at [Radar](https://radar.com/)
 - 🌱 ...hanging out at [Recurse Center <img src="https://github.com/binhrobles/binhrobles/assets/15114767/787dfc6b-4c00-44ba-8cf4-4c93079b1edc" width="12" />](www.recurse.com)
-- 🚲 ...working on an interactive urban bike route explorer, using [OSM data](https://en.wikipedia.org/wiki/OpenStreetMap). See that [here](https://github.com/binhrobles/rusty-bikes)
-- 🎮 ...on game #3 of the [20 Games Challenge](https://20_games_challenge.gitlab.io/challenge/)
+- 🚲 ...working on an interactive urban bike route explorer, using [OSM data](https://en.wikipedia.org/wiki/OpenStreetMap). Touch that [here](https://github.com/binhrobles/rusty-bikes)
 
 <!--
 **binhrobles/binhrobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
