@@ -5,7 +5,7 @@ I'm Binh. I've been a developer for 10+ years and have worked all around the sta
 Thanks for stopping by 🙏🏼
 
 I'm currently...
-- 🗺️ ...building a geocoding search engine, [HorizonDB](https://radar.com/blog/building-horizondb-in-production), at [Radar](https://radar.com/)
+- 🗺️ ...building a geospatial search engine, [HorizonDB](https://radar.com/blog/building-horizondb-in-production), at [Radar](https://radar.com/)
 - 🌱 ...hanging out at [Recurse Center <img src="https://github.com/binhrobles/binhrobles/assets/15114767/787dfc6b-4c00-44ba-8cf4-4c93079b1edc" width="12" />](www.recurse.com)
 - 🚲 ...working on an interactive urban bike route explorer, using [OSM data](https://en.wikipedia.org/wiki/OpenStreetMap). Touch that [here](https://github.com/binhrobles/rusty-bikes)
 
